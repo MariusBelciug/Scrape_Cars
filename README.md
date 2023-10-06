@@ -1,14 +1,10 @@
 ![scrape_cars-preview](https://github.com/MariusBelciug/Scrape_Cars/blob/a71c6242f7a7a9323364e3278db18cb796b65f60/car_dealer.png)
 
-This Python project is dedicated to web scraping, specifically extracting information about car dealers (https://www.cars.com) from a website using BeautifulSoup, requests, and pandas. The code navigates through the website's structure, retrieves relevant details about the cars and dealers, and organizes this data into a structured format using a Pandas DataFrame. The extracted data is then exported to an Excel file for further use and analysis.
-
-### README.md Example
-
 ---
 
 # Car Dealer Data Scraper
 
-A simple, robust Python web scraper that extracts detailed information about car dealers from a specified website and exports the data to an Excel file for further analysis.
+A simple, robust Python web scraper that extracts detailed information about car dealers from a specified website (https://www.cars.com) using BeautifulSoup, requests, and pandas, and exports the data to an Excel file for further analysis. The code navigates through the website's structure, retrieves relevant details about the cars and dealers, and organizes this data into a structured format using a Pandas DataFrame.
 
 ## Table of Contents
 
@@ -64,4 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Note**: Replace placeholder text (like `[Your Repository Link]`, `[Your Repository Name]`, and `[Your Script Name]`) with your actual details. Feel free to modify this template according to your project's needs! If you have any questions or need further customization, let me know!
+**Note**: Replace placeholder text (like `[Your Repository Link]`, `[Your Repository Name]`, and `[Your Script Name]`) with your actual details. Feel free to modify this template according to your project's needs!
+
+If you have any questions or need further customization, let me know!
