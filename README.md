@@ -2,7 +2,7 @@ Extracting Car Dealer Information
 
 ![scrape_cars-preview](https://github.com/MariusBelciug/Scrape_Cars/blob/a71c6242f7a7a9323364e3278db18cb796b65f60/car_dealer.png)
 
-This Python project is dedicated to web scraping, specifically extracting information about car dealers from a website using BeautifulSoup, requests, and pandas. The code navigates through the website's structure, retrieves relevant details about the cars and dealers, and organizes this data into a structured format using a Pandas DataFrame. The extracted data is then exported to an Excel file for further use and analysis.
+This Python project is dedicated to web scraping, specifically extracting information about car dealers (https://www.cars.com) from a website using BeautifulSoup, requests, and pandas. The code navigates through the website's structure, retrieves relevant details about the cars and dealers, and organizes this data into a structured format using a Pandas DataFrame. The extracted data is then exported to an Excel file for further use and analysis.
 
 Key Features:
 
